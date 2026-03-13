@@ -16,5 +16,19 @@
 	},
 	"dependencies": {
 		"prettier-plugin-tailwindcss": "^0.7.2"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nehrom-dev/prettier-config"
+	},
+	"homepage": "https://github.com/nehrom-dev/prettier-config#readme",
+	"bugs": {
+		"url": "https://github.com/nehrom-dev/prettier-config/issues"
+	},
+	"keywords": [
+		"prettier",
+		"config",
+		"tailwind",
+		"shared-config"
+	]
 }
