@@ -1,6 +1,6 @@
 # @nehrom-dev/prettier-config
 
-Shared Prettier config.
+Shared Prettier config...
 
 ## Install
 
