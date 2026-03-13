@@ -7,7 +7,7 @@
 	"peerDependencies": {
 		"prettier": "^3.8.1"
 	},
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"description": "My shared Prettier config",
 	"exports": "./index.js",
 	"license": "MIT",
