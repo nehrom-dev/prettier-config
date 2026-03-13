@@ -29,6 +29,7 @@
 		"prettier",
 		"config",
 		"tailwind",
-		"shared-config"
+		"shared-config",
+		"nehrom-dev"
 	]
 }
