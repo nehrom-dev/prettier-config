@@ -1,0 +1,20 @@
+{
+	"name": "@nehrom-dev/prettier-config",
+	"type": "module",
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"prettier": "^3.8.1"
+	},
+	"version": "1.0.0",
+	"description": "My shared Prettier config",
+	"exports": "./index.js",
+	"license": "MIT",
+	"publishConfig": {
+		"access": "public"
+	},
+	"dependencies": {
+		"prettier-plugin-tailwindcss": "^0.7.2"
+	}
+}
